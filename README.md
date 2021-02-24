@@ -48,3 +48,5 @@ NOTE: The node with the value of 8 was deleted and should not exist in the list 
 See links below for some resources on what a linked list is and how to implement one.
 
 https://www.geeksforgeeks.org/data-structures/linked-list/
+
+*Once you are done, add a section to this readme with short instructions on how to run your project.*
