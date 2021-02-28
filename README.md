@@ -1,5 +1,15 @@
 # JavaTest
-{Your Name Here}
+{Tieyong Wang}
+
++++++++++++++++++++++++++++++++++++++
+
+#Usage:
+1. Type “Java FileInsDel” in the console
+2. Press “Enter”
+   “Please input the text file name:” will be displayed
+3. Input the path with file extension .txt
+
++++++++++++++++++++++++++++++++++++++
 
 # Purpose
 To quickly test a candidate’s ability to program in Java. This exercise will require a basic understanding of the linked list data structure, algorithms, recursion, and/or control loops in Java
